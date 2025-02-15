@@ -4,10 +4,12 @@ import { Outlet, Link } from 'react-router-dom';
 
 const AppLayout = () => {
     return (
+        <div>.</div>
         //layout here
         //searchbar
         //sidebar
         //outlet for main content, error message, etc
+        
     );
 };
 
