@@ -2,6 +2,15 @@
 Reddit JSON API
 - doc: https://github.com/reddit-archive/reddit/wiki/JSON
 
+- sample post structure: {
+    "kind": "t3",
+    "data": {
+        "selftext": "",
+        "title": "",
+         
+    }
+    }
+
 # USER STORIES
 Design
 - As a user I want to be ables to view the site on small AND large screens
