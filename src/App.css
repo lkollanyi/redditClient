@@ -29,6 +29,20 @@
   padding: 20px;
 }
 
+.navlink-list {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.activeNavLink {
+  background-color: aqua;
+}
+
+.inactiveNavLink {
+  background-color: auto;
+}
+
 .main-feed {
   grid-area: main;
   background-color: #fff;
